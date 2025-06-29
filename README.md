@@ -19,14 +19,6 @@ This is a full stack realtime chat application built with the following technolo
 - Production-ready deployment configuration
 
 
-# Team Members
-1) Karan Malik (Team Leader)
-2) Avneesh Kumar
-3) Gokul Raj M
-4) Yash Mohan
-5) Sanmit Sarkar
-6) Nishtha Garg
-
 
 ## Environment Variables
 
