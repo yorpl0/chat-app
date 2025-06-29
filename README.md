@@ -18,6 +18,16 @@ This is a full stack realtime chat application built with the following technolo
 - Comprehensive error handling on both server and client sides
 - Production-ready deployment configuration
 
+
+# Team Members
+1) Karan Malik (Team Leader)
+2) Avneesh Kumar
+3) Gokul Raj M
+4) Yash Mohan
+5) Sanmit Sarkar
+6) Nishtha Garg
+
+
 ## Environment Variables
 
 Create a `.env` file in the root directory with the following content:
